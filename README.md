@@ -8,9 +8,9 @@ The probability of the union of multiple events can differ based on the nature o
 
 If the events \(A\) and \(B\) are mutually exclusive (they cannot happen at the same time), then the probability of their union is:
 
-\[
+$$
 P(A \cup B) = P(A) + P(B)
-\]
+$$
 
 For \(n\) mutually exclusive events \(A_1, A_2, \ldots, A_n\), the probability of the union is:
 
